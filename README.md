@@ -6,8 +6,8 @@
 - 📫 How to reach me danielcely1@gmail.com
 - :colombia:  I'm from Colombia
 
-![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=gotham)
 
+![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=gotham)
 
 <!---
 Dandy182/Dandy182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
