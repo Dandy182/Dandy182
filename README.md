@@ -1,4 +1,5 @@
-# **Hi, I’m @Dandy182**
+<h1 align='center'> Hi, I’m @Dandy182 </h1>
+
 - 👀 I’m interested in play videogames, movies, anime, learn programming ...
 - 🌱 I’m currently learning JavaScript, HTML, CSS, SASS, Databases, etc 
 - :cat2: I'm cat loving
