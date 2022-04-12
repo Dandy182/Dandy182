@@ -2,9 +2,12 @@
 
 👀 I’m interested in play videogames, movies, anime, learn programming ...
 <br>
-🌱 I’m currently learning JavaScript, HTML, CSS, SASS, Databases, etc 
+🌱 I’m currently learning JavaScript, HTML, CSS, SASS, Databases, etc
+<br> 
 :cat2: I'm cat loving
+<br>
 📫 How to reach me danielcely1@gmail.com
+<br>
 :colombia:  I'm from Colombia
 
 
