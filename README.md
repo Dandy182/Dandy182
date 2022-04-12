@@ -11,7 +11,7 @@
 :colombia:  I'm from Colombia
 
 
-![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=radical);
+![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandy182&layout=compact)]
 
