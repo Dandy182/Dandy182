@@ -1,10 +1,10 @@
 <h1 align='center'> Hi, I’m @Dandy182 </h1>
 
-- 👀 I’m interested in play videogames, movies, anime, learn programming ...
-- 🌱 I’m currently learning JavaScript, HTML, CSS, SASS, Databases, etc 
-- :cat2: I'm cat loving
-- 📫 How to reach me danielcely1@gmail.com
-- :colombia:  I'm from Colombia
+👀 I’m interested in play videogames, movies, anime, learn programming ...
+🌱 I’m currently learning JavaScript, HTML, CSS, SASS, Databases, etc 
+:cat2: I'm cat loving
+📫 How to reach me danielcely1@gmail.com
+:colombia:  I'm from Colombia
 
 
 ![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=radical);
