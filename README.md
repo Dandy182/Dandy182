@@ -13,7 +13,7 @@
 
 ![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandy182&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandy182&layout=compact)
 
 
 <!---Dandy182/Dandy182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
