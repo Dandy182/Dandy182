@@ -9,6 +9,10 @@ a equipos de videoconferencia POLYCOM y equipo de audio y video para audiorios
   
 Soy una persona proactiva, me gusta estar en continuo aprendizaje, me gusta trabajar en equipo y también tengo facilidad para adaptarme a los cambios. 
   
+  
+  <h2>Que hago en la actualidad</h2>
+  
+   Actualmente estoy fortaleciendo conceptos y conocmientos para poder dar un mejor desempeño, y asi poder ofrecer las mejores soluciones posibles!
 
 ![Dandy182 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandy182&theme=radical)
 
